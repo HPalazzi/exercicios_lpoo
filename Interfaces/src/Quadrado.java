@@ -15,6 +15,7 @@ public class Quadrado extends FormaGeometrica{
 	public void mostraValores() {
 		System.out.println("Perimetro: "+calculaPerimetro());
 		System.out.println("Area: "+calculaArea());
+		System.out.println("Lado: "+lado);
 	}
 	
 	
